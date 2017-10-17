@@ -1,0 +1,558 @@
+Record Number	X coor	Y coor	Z coor	Level 1	Level 2	Level 3	Level 4	Level 5	Range (mm)	Appended Data
+1	13.0	-54.0	-42.0	Right Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+2	31.0	-49.0	-41.0	Right Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+3	28.0	-78.0	-29.0	Right Cerebellum	Posterior Lobe	Tuber	Gray Matter	*	0	
+4	6.0	-39.0	-37.0	Right Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	5	
+5	20.0	-68.0	-40.0	Right Cerebellum	Posterior Lobe	Inferior Semi-Lunar Lobule	Gray Matter	*	0	
+6	7.0	-59.0	-28.0	Right Cerebellum	Anterior Lobe	Nodule	Gray Matter	*	0	
+7	12.0	-66.0	-15.0	Right Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+8	7.0	-23.0	-26.0	No Gray Matter found						
+9	40.0	-69.0	-38.0	Right Cerebellum	Posterior Lobe	Inferior Semi-Lunar Lobule	Gray Matter	*	0	
+10	11.0	-81.0	-27.0	Right Cerebellum	Posterior Lobe	Pyramis	Gray Matter	*	0	
+11	-11.0	-52.0	-40.0	Left Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+12	-26.0	-79.0	-31.0	Left Cerebellum	Posterior Lobe	Pyramis	Gray Matter	*	0	
+13	-36.0	-80.0	-20.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+14	-4.0	-21.0	-27.0	No Gray Matter found						
+15	-44.0	-53.0	-36.0	Left Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+16	-20.0	-65.0	-40.0	Left Cerebellum	Posterior Lobe	Inferior Semi-Lunar Lobule	Gray Matter	*	0	
+17	-5.0	-56.0	-25.0	Left Cerebellum	Anterior Lobe	Nodule	Gray Matter	*	0	
+18	-27.0	-49.0	-41.0	Left Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+19	-39.0	-70.0	-36.0	Left Cerebellum	Posterior Lobe	Inferior Semi-Lunar Lobule	Gray Matter	*	0	
+20	-5.0	-70.0	-26.0	Left Cerebellum	Posterior Lobe	Pyramis	Gray Matter	*	0	
+21	-7.0	-35.0	-29.0	Left Cerebellum	Anterior Lobe	*	Gray Matter	*	4	
+22	-11.0	-83.0	-22.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+23	-8.0	-43.0	-15.0	Left Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+24	-3.0	-40.0	-45.0	No Gray Matter found						
+25	-49.0	-20.0	34.0	Left Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 2	2	
+26	-40.0	-23.0	53.0	Left Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 3	0	
+27	-22.0	-24.0	59.0	Left Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	0	
+28	-57.0	-9.0	28.0	Left Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	1	
+29	-5.0	-23.0	58.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 6	1	
+30	-53.0	1.0	23.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 9	0	
+31	-45.0	-8.0	41.0	Left Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	2	
+32	-42.0	4.0	48.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+33	-41.0	9.0	31.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 9	2	
+34	-28.0	-7.0	54.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+35	-24.0	11.0	51.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	1	
+36	-14.0	-2.0	63.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+37	-5.0	12.0	57.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+38	-5.0	-4.0	45.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 24	0	
+39	-35.0	-49.0	48.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+40	-28.0	-60.0	36.0	Left Cerebrum	Parietal Lobe	Angular Gyrus	Gray Matter	Brodmann area 39	3	
+41	-27.0	-40.0	53.0	Left Cerebrum	Parietal Lobe	Sub-Gyral	Gray Matter	Brodmann area 40	1	
+42	-21.0	-56.0	57.0	Left Cerebrum	Parietal Lobe	Superior Parietal Lobule	Gray Matter	Brodmann area 7	1	
+43	-15.0	-71.0	46.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	2	
+44	-14.0	-68.0	29.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	1	
+45	-12.0	-39.0	64.0	Left Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 3	2	
+46	-6.0	-55.0	52.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+47	-3.0	-67.0	38.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+48	-38.0	24.0	42.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 8	1	
+49	-21.0	25.0	40.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 8	0	
+50	-15.0	33.0	48.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	0	
+51	-3.0	29.0	47.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	1	
+52	-45.0	26.0	24.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 46	3	
+53	-27.0	36.0	31.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 9	2	
+54	-10.0	47.0	36.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	2	
+55	-38.0	42.0	26.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 10	2	
+56	-32.0	50.0	-1.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 10	1	
+57	-27.0	48.0	18.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	1	
+58	-16.0	60.0	3.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 10	1	
+59	-12.0	55.0	-13.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 11	2	
+60	-10.0	57.0	20.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	4	
+61	-7.0	47.0	0.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 32	0	
+62	-9.0	40.0	-20.0	Left Cerebrum	Frontal Lobe	Rectal Gyrus	Gray Matter	Brodmann area 11	3	
+63	-7.0	20.0	-17.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 25	4	
+64	-39.0	-11.0	13.0	Left Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+65	-36.0	7.0	-1.0	Left Cerebrum	Sub-lobar	Claustrum	Gray Matter	*	2	
+66	-35.0	-12.0	0.0	Left Cerebrum	Sub-lobar	Claustrum	Gray Matter	*	1	
+67	-22.0	-64.0	11.0	Left Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 30	0	
+68	-29.0	-91.0	0.0	Left Cerebrum	Occipital Lobe	Inferior Occipital Gyrus	Gray Matter	Brodmann area 18	1	
+69	-20.0	-91.0	15.0	Left Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 18	3	
+70	-19.0	-84.0	-9.0	Left Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 18	1	
+71	-8.0	-64.0	7.0	Left Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 30	1	
+72	-7.0	-95.0	0.0	Left Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	*	0	
+73	-7.0	-69.0	-11.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+74	-5.0	-79.0	2.0	Left Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	*	1	
+75	-4.0	-90.0	15.0	Left Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 18	1	
+76	-3.0	-75.0	19.0	Left Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 18	1	
+77	-46.0	-69.0	5.0	Left Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 37	0	
+78	-42.0	-72.0	24.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 39	2	
+79	-39.0	-76.0	-3.0	Left Cerebrum	Occipital Lobe	Inferior Occipital Gyrus	Gray Matter	Brodmann area 19	0	
+80	-37.0	-82.0	15.0	Left Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 19	2	
+81	-27.0	-76.0	32.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 19	2	
+82	-26.0	-67.0	-20.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+83	-23.0	-65.0	-4.0	Left Cerebrum	Occipital Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 19	3	
+84	-16.0	-48.0	2.0	Left Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 19	0	
+85	-10.0	-83.0	32.0	Left Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 19	2	
+86	-4.0	-52.0	-5.0	Left Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+87	-49.0	-11.0	-26.0	Left Cerebrum	Temporal Lobe	Inferior Temporal Gyrus	Gray Matter	Brodmann area 20	1	
+88	-57.0	-43.0	7.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	0	
+89	-56.0	-12.0	-10.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	2	
+90	-56.0	-29.0	-13.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	2	
+91	-54.0	-27.0	3.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+92	-52.0	0.0	2.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+93	-8.0	-56.0	21.0	Left Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 31	1	
+94	-4.0	-17.0	29.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 23	1	
+95	-4.0	-33.0	32.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 31	1	
+96	-4.0	27.0	14.0	Left Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	Brodmann area 24	0	
+97	-4.0	4.0	24.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 24	2	
+98	-6.0	-42.0	17.0	Left Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 29	2	
+99	-8.0	-40.0	47.0	Left Cerebrum	Frontal Lobe	Paracentral Lobule	Gray Matter	Brodmann area 5	1	
+100	-8.0	-22.0	42.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 31	2	
+101	-6.0	-49.0	36.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 31	0	
+102	-7.0	30.0	29.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 9	1	
+103	-6.0	42.0	17.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 9	0	
+104	-6.0	32.0	-7.0	Left Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	Brodmann area 32	1	
+105	-5.0	12.0	35.0	Left Cerebrum	Frontal Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 32	0	
+106	-32.0	-15.0	-24.0	Left Cerebrum	Limbic Lobe	Uncus	Gray Matter	Brodmann area 20	3	
+107	-57.0	-48.0	-9.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 37	1	
+108	-53.0	-59.0	-2.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 37	0	
+109	-46.0	-63.0	-23.0	Left Cerebellum	Posterior Lobe	Tuber	Gray Matter	*	0	
+110	-42.0	-38.0	-16.0	Left Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 20	1	
+111	-40.0	-55.0	-10.0	Left Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 37	2	
+112	-32.0	-46.0	-24.0	Left Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+113	-22.0	-32.0	-16.0	Left Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+114	-20.0	-53.0	-13.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+115	-46.0	0.0	-12.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 38	1	
+116	-41.0	8.0	-26.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 38	1	
+117	-26.0	2.0	-31.0	Left Cerebrum	Limbic Lobe	Uncus	Gray Matter	Brodmann area 36	2	
+118	-54.0	-49.0	26.0	Left Cerebrum	Temporal Lobe	Supramarginal Gyrus	Gray Matter	Brodmann area 40	1	
+119	-51.0	-44.0	41.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	2	
+120	-51.0	-57.0	14.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	0	
+121	-48.0	-60.0	30.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 39	1	
+122	-39.0	-61.0	44.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 7	2	
+123	-57.0	-28.0	33.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+124	-57.0	-24.0	16.0	Left Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 40	0	
+125	-55.0	-38.0	23.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	4	
+126	-44.0	-32.0	44.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+127	-55.0	-11.0	8.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+128	-39.0	-28.0	15.0	Left Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	1	
+129	-52.0	15.0	14.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 44	0	
+130	-35.0	5.0	11.0	Left Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+131	-51.0	29.0	6.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 45	1	
+132	-32.0	22.0	4.0	Left Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+133	-40.0	41.0	11.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 10	0	
+134	-44.0	40.0	-5.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 47	2	
+135	-44.0	19.0	-8.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 47	1	
+136	-28.0	35.0	-12.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 11	1	
+137	-25.0	16.0	-16.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 47	2	
+138	-14.0	-15.0	20.0	Left Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Body	1	
+139	-12.0	7.0	13.0	Left Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Body	0	
+140	-11.0	18.0	2.0	Left Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Head	0	
+141	-23.0	4.0	2.0	Left Cerebrum	Sub-lobar	Lentiform Nucleus	Gray Matter	Putamen	0	
+142	-10.0	4.0	-6.0	Left Cerebrum	Sub-lobar	*	Gray Matter	*	1	
+143	-18.0	-35.0	15.0	Left Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Tail	2	
+144	-10.0	-26.0	3.0	Left Cerebrum	Sub-lobar	Thalamus	Gray Matter	Pulvinar	0	
+145	-3.0	-10.0	8.0	Left Cerebrum	Sub-lobar	Thalamus	Gray Matter	Medial Dorsal Nucleus	0	
+146	-23.0	-5.0	-15.0	Left Cerebrum	Limbic Lobe	Parahippocampal Gyrus	Gray Matter	Amygdala	0	
+147	-28.0	-20.0	-9.0	Left Cerebrum	Temporal Lobe	Sub-Gyral	Gray Matter	Hippocampus	1	
+148	-27.0	-38.0	-1.0	Left Cerebrum	Temporal Lobe	Sub-Gyral	Gray Matter	Hippocampus	0	
+149	-4.0	-24.0	-9.0	Left Brainstem	Midbrain	*	Gray Matter	Red Nucleus	3	
+150	19.0	-29.0	64.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	0	
+151	35.0	-24.0	57.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	1	
+152	42.0	-26.0	38.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 2	0	
+153	59.0	-9.0	23.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	0	
+154	45.0	-15.0	42.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	1	
+155	5.0	12.0	53.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	1	
+156	7.0	-11.0	61.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+157	17.0	9.0	60.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+158	26.0	-9.0	60.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+159	29.0	1.0	51.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+160	39.0	4.0	32.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 9	2	
+161	44.0	-5.0	49.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 6	0	
+162	52.0	-2.0	35.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 6	0	
+163	53.0	5.0	22.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 9	2	
+164	6.0	-67.0	42.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+165	6.0	-52.0	50.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	1	
+166	7.0	-40.0	62.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 5	1	
+167	21.0	-56.0	55.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+168	23.0	-66.0	49.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+169	24.0	-46.0	61.0	Right Cerebrum	Parietal Lobe	Superior Parietal Lobule	Gray Matter	Brodmann area 7	0	
+170	31.0	-37.0	47.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 3	4	
+171	38.0	-50.0	45.0	Right Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+172	6.0	30.0	37.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+173	15.0	32.0	50.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	1	
+174	22.0	31.0	33.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 9	4	
+175	25.0	17.0	46.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 8	0	
+176	37.0	29.0	41.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 8	0	
+177	42.0	12.0	46.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+178	6.0	45.0	21.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 9	0	
+179	14.0	48.0	36.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	2	
+180	24.0	48.0	25.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	1	
+181	37.0	37.0	26.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 9	4	
+182	50.0	23.0	27.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 46	2	
+183	8.0	42.0	2.0	Right Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	*	0	
+184	13.0	60.0	0.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 10	0	
+185	13.0	58.0	17.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	2	
+186	29.0	52.0	-5.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	0	
+187	32.0	49.0	12.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 10	3	
+188	43.0	43.0	-2.0	Right Cerebrum	Frontal Lobe	Sub-Gyral	Gray Matter	Brodmann area 10	0	
+189	5.0	30.0	-6.0	Right Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	Brodmann area 24	0	
+190	6.0	41.0	-17.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 11	1	
+191	8.0	24.0	-19.0	Right Cerebrum	Frontal Lobe	Rectal Gyrus	Gray Matter	Brodmann area 11	2	
+192	11.0	53.0	-16.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 11	2	
+193	34.0	15.0	-6.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	1	
+194	39.0	4.0	4.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	2	
+195	40.0	-6.0	14.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+196	41.0	-11.0	0.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	1	
+197	8.0	-87.0	11.0	Right Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 18	2	
+198	10.0	-71.0	12.0	Right Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 23	0	
+199	26.0	-58.0	10.0	Right Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 30	5	
+200	6.0	-52.0	-6.0	Right Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+201	8.0	-76.0	26.0	Right Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 18	1	
+202	9.0	-76.0	-1.0	Right Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 18	0	
+203	20.0	-84.0	-17.0	Right Cerebellum	Posterior Lobe	Declive	Gray Matter	*	1	
+204	23.0	-90.0	-3.0	Right Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 18	3	
+205	25.0	-94.0	9.0	Right Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 18	1	
+206	40.0	-84.0	8.0	Right Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 19	1	
+207	14.0	-58.0	0.0	Right Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 19	1	
+208	19.0	-77.0	37.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+209	24.0	-70.0	-3.0	Right Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 19	0	
+210	28.0	-80.0	22.0	Right Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 19	1	
+211	43.0	-73.0	27.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 39	0	
+212	43.0	-75.0	-5.0	Right Cerebrum	Occipital Lobe	Inferior Occipital Gyrus	Gray Matter	Brodmann area 19	0	
+213	47.0	-71.0	9.0	Right Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 19	0	
+214	36.0	-16.0	-25.0	Right Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 20	2	
+215	46.0	0.0	-29.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	0	
+216	46.0	-53.0	-33.0	Right Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+217	50.0	-32.0	3.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	0	
+218	55.0	-14.0	-20.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	2	
+219	58.0	-29.0	-12.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	1	
+220	62.0	-40.0	0.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	*	0	
+221	55.0	-17.0	-3.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 21	2	
+222	56.0	0.0	2.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+223	62.0	-29.0	12.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 42	1	
+224	6.0	-42.0	19.0	Right Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 29	1	
+225	6.0	-39.0	37.0	Right Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 31	1	
+226	7.0	-18.0	30.0	Right Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 23	1	
+227	12.0	-55.0	16.0	Right Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 23	3	
+228	7.0	-6.0	43.0	Right Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 24	0	
+229	6.0	-54.0	31.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	1	
+230	9.0	-28.0	45.0	Right Cerebrum	Frontal Lobe	Paracentral Lobule	Gray Matter	Brodmann area 31	2	
+231	17.0	-63.0	27.0	Right Cerebrum	Occipital Lobe	Precuneus	Gray Matter	Brodmann area 31	1	
+232	6.0	11.0	30.0	Right Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 24	0	
+233	7.0	30.0	17.0	Right Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	Brodmann area 24	1	
+234	11.0	-43.0	-17.0	Right Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+235	15.0	-43.0	3.0	Right Cerebrum	Limbic Lobe	Parahippocampal Gyrus	Gray Matter	Brodmann area 30	2	
+236	25.0	-49.0	-7.0	Right Cerebrum	Occipital Lobe	Parahippocampal Gyrus	Gray Matter	Brodmann area 37	0	
+237	28.0	-36.0	-20.0	Right Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+238	33.0	-55.0	-22.0	Right Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+239	33.0	-69.0	-14.0	Right Cerebellum	Posterior Lobe	Declive	Gray Matter	*	1	
+240	40.0	-34.0	-16.0	Right Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 20	1	
+241	43.0	-57.0	-9.0	Right Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 37	3	
+242	47.0	-72.0	-24.0	Right Cerebellum	Posterior Lobe	Tuber	Gray Matter	*	0	
+243	54.0	-56.0	0.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 37	1	
+244	54.0	-48.0	-14.0	Right Cerebrum	Temporal Lobe	Inferior Temporal Gyrus	Gray Matter	Brodmann area 20	0	
+245	54.0	-44.0	11.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+246	29.0	0.0	-32.0	Right Cerebrum	Limbic Lobe	Uncus	Gray Matter	Brodmann area 36	3	
+247	37.0	12.0	-24.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 38	2	
+248	50.0	1.0	-13.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	0	
+249	33.0	-67.0	38.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 19	1	
+250	48.0	-59.0	34.0	Right Cerebrum	Parietal Lobe	Angular Gyrus	Gray Matter	Brodmann area 39	4	
+251	48.0	-57.0	17.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	0	
+252	58.0	-47.0	24.0	Right Cerebrum	Temporal Lobe	Supramarginal Gyrus	Gray Matter	Brodmann area 40	0	
+253	48.0	-29.0	18.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 41	1	
+254	49.0	-31.0	49.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 40	0	
+255	51.0	-46.0	40.0	Right Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	3	
+256	57.0	-20.0	31.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 2	0	
+257	58.0	-34.0	30.0	Right Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+258	37.0	-22.0	15.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+259	55.0	-13.0	11.0	Right Cerebrum	Temporal Lobe	Transverse Temporal Gyrus	Gray Matter	Brodmann area 42	1	
+260	36.0	17.0	29.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 9	1	
+261	52.0	13.0	12.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 44	1	
+262	35.0	19.0	8.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+263	46.0	37.0	13.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 46	0	
+264	18.0	12.0	-15.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 47	0	
+265	26.0	33.0	-13.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 11	0	
+266	43.0	24.0	-11.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 47	1	
+267	52.0	25.0	3.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 45	1	
+268	12.0	17.0	4.0	Right Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Head	0	
+269	14.0	0.0	17.0	Right Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Body	0	
+270	24.0	5.0	1.0	Right Cerebrum	Sub-lobar	Lentiform Nucleus	Gray Matter	Putamen	0	
+271	29.0	-8.0	-1.0	Right Cerebrum	Sub-lobar	Lentiform Nucleus	Gray Matter	Putamen	0	
+272	5.0	-13.0	7.0	Right Cerebrum	Sub-lobar	Thalamus	Gray Matter	Medial Dorsal Nucleus	0	
+273	8.0	-25.0	-7.0	Right Brainstem	Midbrain	*	Gray Matter	Red Nucleus	2	
+274	15.0	-30.0	15.0	Right Cerebrum	Sub-lobar	Thalamus	Gray Matter	Pulvinar	2	
+275	25.0	-2.0	-16.0	Right Cerebrum	Limbic Lobe	Parahippocampal Gyrus	Gray Matter	Amygdala	0	
+276	27.0	-19.0	-11.0	Right Cerebrum	Limbic Lobe	Parahippocampal Gyrus	Gray Matter	Hippocampus	1	
+277	30.0	-36.0	0.0	Right Cerebrum	Temporal Lobe	Sub-Gyral	Gray Matter	Hippocampus	0	
+278	8.0	1.0	-4.0	Right Cerebrum	Sub-lobar	Lentiform Nucleus	Gray Matter	Medial Globus Pallidus	2	
+1	13.0	-54.0	-42.0	Right Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+2	31.0	-49.0	-41.0	Right Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+3	28.0	-78.0	-29.0	Right Cerebellum	Posterior Lobe	Tuber	Gray Matter	*	0	
+4	6.0	-39.0	-37.0	Right Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	5	
+5	20.0	-68.0	-40.0	Right Cerebellum	Posterior Lobe	Inferior Semi-Lunar Lobule	Gray Matter	*	0	
+6	7.0	-59.0	-28.0	Right Cerebellum	Anterior Lobe	Nodule	Gray Matter	*	0	
+7	12.0	-66.0	-15.0	Right Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+8	7.0	-23.0	-26.0	No Gray Matter found						
+9	40.0	-69.0	-38.0	Right Cerebellum	Posterior Lobe	Inferior Semi-Lunar Lobule	Gray Matter	*	0	
+10	11.0	-81.0	-27.0	Right Cerebellum	Posterior Lobe	Pyramis	Gray Matter	*	0	
+11	-11.0	-52.0	-40.0	Left Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+12	-26.0	-79.0	-31.0	Left Cerebellum	Posterior Lobe	Pyramis	Gray Matter	*	0	
+13	-36.0	-80.0	-20.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+14	-4.0	-21.0	-27.0	No Gray Matter found						
+15	-44.0	-53.0	-36.0	Left Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+16	-20.0	-65.0	-40.0	Left Cerebellum	Posterior Lobe	Inferior Semi-Lunar Lobule	Gray Matter	*	0	
+17	-5.0	-56.0	-25.0	Left Cerebellum	Anterior Lobe	Nodule	Gray Matter	*	0	
+18	-27.0	-49.0	-41.0	Left Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+19	-39.0	-70.0	-36.0	Left Cerebellum	Posterior Lobe	Inferior Semi-Lunar Lobule	Gray Matter	*	0	
+20	-5.0	-70.0	-26.0	Left Cerebellum	Posterior Lobe	Pyramis	Gray Matter	*	0	
+21	-7.0	-35.0	-29.0	Left Cerebellum	Anterior Lobe	*	Gray Matter	*	4	
+22	-11.0	-83.0	-22.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+23	-8.0	-43.0	-15.0	Left Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+24	-3.0	-40.0	-45.0	No Gray Matter found						
+25	-49.0	-20.0	34.0	Left Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 2	2	
+26	-40.0	-23.0	53.0	Left Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 3	0	
+27	-22.0	-24.0	59.0	Left Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	0	
+28	-57.0	-9.0	28.0	Left Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	1	
+29	-5.0	-23.0	58.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 6	1	
+30	-53.0	1.0	23.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 9	0	
+31	-45.0	-8.0	41.0	Left Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	2	
+32	-42.0	4.0	48.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+33	-41.0	9.0	31.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 9	2	
+34	-28.0	-7.0	54.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+35	-24.0	11.0	51.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	1	
+36	-14.0	-2.0	63.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+37	-5.0	12.0	57.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+38	-5.0	-4.0	45.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 24	0	
+39	-35.0	-49.0	48.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+40	-28.0	-60.0	36.0	Left Cerebrum	Parietal Lobe	Angular Gyrus	Gray Matter	Brodmann area 39	3	
+41	-27.0	-40.0	53.0	Left Cerebrum	Parietal Lobe	Sub-Gyral	Gray Matter	Brodmann area 40	1	
+42	-21.0	-56.0	57.0	Left Cerebrum	Parietal Lobe	Superior Parietal Lobule	Gray Matter	Brodmann area 7	1	
+43	-15.0	-71.0	46.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	2	
+44	-14.0	-68.0	29.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	1	
+45	-12.0	-39.0	64.0	Left Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 3	2	
+46	-6.0	-55.0	52.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+47	-3.0	-67.0	38.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+48	-38.0	24.0	42.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 8	1	
+49	-21.0	25.0	40.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 8	0	
+50	-15.0	33.0	48.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	0	
+51	-3.0	29.0	47.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	1	
+52	-45.0	26.0	24.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 46	3	
+53	-27.0	36.0	31.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 9	2	
+54	-10.0	47.0	36.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	2	
+55	-38.0	42.0	26.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 10	2	
+56	-32.0	50.0	-1.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 10	1	
+57	-27.0	48.0	18.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	1	
+58	-16.0	60.0	3.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 10	1	
+59	-12.0	55.0	-13.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 11	2	
+60	-10.0	57.0	20.0	Left Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	4	
+61	-7.0	47.0	0.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 32	0	
+62	-9.0	40.0	-20.0	Left Cerebrum	Frontal Lobe	Rectal Gyrus	Gray Matter	Brodmann area 11	3	
+63	-7.0	20.0	-17.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 25	4	
+64	-39.0	-11.0	13.0	Left Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+65	-36.0	7.0	-1.0	Left Cerebrum	Sub-lobar	Claustrum	Gray Matter	*	2	
+66	-35.0	-12.0	0.0	Left Cerebrum	Sub-lobar	Claustrum	Gray Matter	*	1	
+67	-22.0	-64.0	11.0	Left Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 30	0	
+68	-29.0	-91.0	0.0	Left Cerebrum	Occipital Lobe	Inferior Occipital Gyrus	Gray Matter	Brodmann area 18	1	
+69	-20.0	-91.0	15.0	Left Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 18	3	
+70	-19.0	-84.0	-9.0	Left Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 18	1	
+71	-8.0	-64.0	7.0	Left Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 30	1	
+72	-7.0	-95.0	0.0	Left Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	*	0	
+73	-7.0	-69.0	-11.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+74	-5.0	-79.0	2.0	Left Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	*	1	
+75	-4.0	-90.0	15.0	Left Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 18	1	
+76	-3.0	-75.0	19.0	Left Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 18	1	
+77	-46.0	-69.0	5.0	Left Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 37	0	
+78	-42.0	-72.0	24.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 39	2	
+79	-39.0	-76.0	-3.0	Left Cerebrum	Occipital Lobe	Inferior Occipital Gyrus	Gray Matter	Brodmann area 19	0	
+80	-37.0	-82.0	15.0	Left Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 19	2	
+81	-27.0	-76.0	32.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 19	2	
+82	-26.0	-67.0	-20.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+83	-23.0	-65.0	-4.0	Left Cerebrum	Occipital Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 19	3	
+84	-16.0	-48.0	2.0	Left Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 19	0	
+85	-10.0	-83.0	32.0	Left Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 19	2	
+86	-4.0	-52.0	-5.0	Left Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+87	-49.0	-11.0	-26.0	Left Cerebrum	Temporal Lobe	Inferior Temporal Gyrus	Gray Matter	Brodmann area 20	1	
+88	-57.0	-43.0	7.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	0	
+89	-56.0	-12.0	-10.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	2	
+90	-56.0	-29.0	-13.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	2	
+91	-54.0	-27.0	3.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+92	-52.0	0.0	2.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+93	-8.0	-56.0	21.0	Left Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 31	1	
+94	-4.0	-17.0	29.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 23	1	
+95	-4.0	-33.0	32.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 31	1	
+96	-4.0	27.0	14.0	Left Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	Brodmann area 24	0	
+97	-4.0	4.0	24.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 24	2	
+98	-6.0	-42.0	17.0	Left Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 29	2	
+99	-8.0	-40.0	47.0	Left Cerebrum	Frontal Lobe	Paracentral Lobule	Gray Matter	Brodmann area 5	1	
+100	-8.0	-22.0	42.0	Left Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 31	2	
+101	-6.0	-49.0	36.0	Left Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 31	0	
+102	-7.0	30.0	29.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 9	1	
+103	-6.0	42.0	17.0	Left Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 9	0	
+104	-6.0	32.0	-7.0	Left Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	Brodmann area 32	1	
+105	-5.0	12.0	35.0	Left Cerebrum	Frontal Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 32	0	
+106	-32.0	-15.0	-24.0	Left Cerebrum	Limbic Lobe	Uncus	Gray Matter	Brodmann area 20	3	
+107	-57.0	-48.0	-9.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 37	1	
+108	-53.0	-59.0	-2.0	Left Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 37	0	
+109	-46.0	-63.0	-23.0	Left Cerebellum	Posterior Lobe	Tuber	Gray Matter	*	0	
+110	-42.0	-38.0	-16.0	Left Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 20	1	
+111	-40.0	-55.0	-10.0	Left Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 37	2	
+112	-32.0	-46.0	-24.0	Left Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+113	-22.0	-32.0	-16.0	Left Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+114	-20.0	-53.0	-13.0	Left Cerebellum	Posterior Lobe	Declive	Gray Matter	*	0	
+115	-46.0	0.0	-12.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 38	1	
+116	-41.0	8.0	-26.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 38	1	
+117	-26.0	2.0	-31.0	Left Cerebrum	Limbic Lobe	Uncus	Gray Matter	Brodmann area 36	2	
+118	-54.0	-49.0	26.0	Left Cerebrum	Temporal Lobe	Supramarginal Gyrus	Gray Matter	Brodmann area 40	1	
+119	-51.0	-44.0	41.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	2	
+120	-51.0	-57.0	14.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	0	
+121	-48.0	-60.0	30.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 39	1	
+122	-39.0	-61.0	44.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 7	2	
+123	-57.0	-28.0	33.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+124	-57.0	-24.0	16.0	Left Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 40	0	
+125	-55.0	-38.0	23.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	4	
+126	-44.0	-32.0	44.0	Left Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+127	-55.0	-11.0	8.0	Left Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+128	-39.0	-28.0	15.0	Left Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	1	
+129	-52.0	15.0	14.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 44	0	
+130	-35.0	5.0	11.0	Left Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+131	-51.0	29.0	6.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 45	1	
+132	-32.0	22.0	4.0	Left Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+133	-40.0	41.0	11.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 10	0	
+134	-44.0	40.0	-5.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 47	2	
+135	-44.0	19.0	-8.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 47	1	
+136	-28.0	35.0	-12.0	Left Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 11	1	
+137	-25.0	16.0	-16.0	Left Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 47	2	
+138	-14.0	-15.0	20.0	Left Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Body	1	
+139	-12.0	7.0	13.0	Left Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Body	0	
+140	-11.0	18.0	2.0	Left Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Head	0	
+141	-23.0	4.0	2.0	Left Cerebrum	Sub-lobar	Lentiform Nucleus	Gray Matter	Putamen	0	
+142	-10.0	4.0	-6.0	Left Cerebrum	Sub-lobar	*	Gray Matter	*	1	
+143	-18.0	-35.0	15.0	Left Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Tail	2	
+144	-10.0	-26.0	3.0	Left Cerebrum	Sub-lobar	Thalamus	Gray Matter	Pulvinar	0	
+145	-3.0	-10.0	8.0	Left Cerebrum	Sub-lobar	Thalamus	Gray Matter	Medial Dorsal Nucleus	0	
+146	-23.0	-5.0	-15.0	Left Cerebrum	Limbic Lobe	Parahippocampal Gyrus	Gray Matter	Amygdala	0	
+147	-28.0	-20.0	-9.0	Left Cerebrum	Temporal Lobe	Sub-Gyral	Gray Matter	Hippocampus	1	
+148	-27.0	-38.0	-1.0	Left Cerebrum	Temporal Lobe	Sub-Gyral	Gray Matter	Hippocampus	0	
+149	-4.0	-24.0	-9.0	Left Brainstem	Midbrain	*	Gray Matter	Red Nucleus	3	
+150	19.0	-29.0	64.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	0	
+151	35.0	-24.0	57.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	1	
+152	42.0	-26.0	38.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 2	0	
+153	59.0	-9.0	23.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	0	
+154	45.0	-15.0	42.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 4	1	
+155	5.0	12.0	53.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	1	
+156	7.0	-11.0	61.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+157	17.0	9.0	60.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+158	26.0	-9.0	60.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+159	29.0	1.0	51.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+160	39.0	4.0	32.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 9	2	
+161	44.0	-5.0	49.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 6	0	
+162	52.0	-2.0	35.0	Right Cerebrum	Frontal Lobe	Precentral Gyrus	Gray Matter	Brodmann area 6	0	
+163	53.0	5.0	22.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 9	2	
+164	6.0	-67.0	42.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+165	6.0	-52.0	50.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	1	
+166	7.0	-40.0	62.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 5	1	
+167	21.0	-56.0	55.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+168	23.0	-66.0	49.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+169	24.0	-46.0	61.0	Right Cerebrum	Parietal Lobe	Superior Parietal Lobule	Gray Matter	Brodmann area 7	0	
+170	31.0	-37.0	47.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 3	4	
+171	38.0	-50.0	45.0	Right Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+172	6.0	30.0	37.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 6	0	
+173	15.0	32.0	50.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	1	
+174	22.0	31.0	33.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 9	4	
+175	25.0	17.0	46.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 8	0	
+176	37.0	29.0	41.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 8	0	
+177	42.0	12.0	46.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 6	2	
+178	6.0	45.0	21.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 9	0	
+179	14.0	48.0	36.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 8	2	
+180	24.0	48.0	25.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	1	
+181	37.0	37.0	26.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 9	4	
+182	50.0	23.0	27.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 46	2	
+183	8.0	42.0	2.0	Right Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	*	0	
+184	13.0	60.0	0.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 10	0	
+185	13.0	58.0	17.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	2	
+186	29.0	52.0	-5.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 10	0	
+187	32.0	49.0	12.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 10	3	
+188	43.0	43.0	-2.0	Right Cerebrum	Frontal Lobe	Sub-Gyral	Gray Matter	Brodmann area 10	0	
+189	5.0	30.0	-6.0	Right Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	Brodmann area 24	0	
+190	6.0	41.0	-17.0	Right Cerebrum	Frontal Lobe	Medial Frontal Gyrus	Gray Matter	Brodmann area 11	1	
+191	8.0	24.0	-19.0	Right Cerebrum	Frontal Lobe	Rectal Gyrus	Gray Matter	Brodmann area 11	2	
+192	11.0	53.0	-16.0	Right Cerebrum	Frontal Lobe	Superior Frontal Gyrus	Gray Matter	Brodmann area 11	2	
+193	34.0	15.0	-6.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	1	
+194	39.0	4.0	4.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	2	
+195	40.0	-6.0	14.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+196	41.0	-11.0	0.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	1	
+197	8.0	-87.0	11.0	Right Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 18	2	
+198	10.0	-71.0	12.0	Right Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 23	0	
+199	26.0	-58.0	10.0	Right Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 30	5	
+200	6.0	-52.0	-6.0	Right Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+201	8.0	-76.0	26.0	Right Cerebrum	Occipital Lobe	Cuneus	Gray Matter	Brodmann area 18	1	
+202	9.0	-76.0	-1.0	Right Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 18	0	
+203	20.0	-84.0	-17.0	Right Cerebellum	Posterior Lobe	Declive	Gray Matter	*	1	
+204	23.0	-90.0	-3.0	Right Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 18	3	
+205	25.0	-94.0	9.0	Right Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 18	1	
+206	40.0	-84.0	8.0	Right Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 19	1	
+207	14.0	-58.0	0.0	Right Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 19	1	
+208	19.0	-77.0	37.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	0	
+209	24.0	-70.0	-3.0	Right Cerebrum	Occipital Lobe	Lingual Gyrus	Gray Matter	Brodmann area 19	0	
+210	28.0	-80.0	22.0	Right Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 19	1	
+211	43.0	-73.0	27.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 39	0	
+212	43.0	-75.0	-5.0	Right Cerebrum	Occipital Lobe	Inferior Occipital Gyrus	Gray Matter	Brodmann area 19	0	
+213	47.0	-71.0	9.0	Right Cerebrum	Occipital Lobe	Middle Occipital Gyrus	Gray Matter	Brodmann area 19	0	
+214	36.0	-16.0	-25.0	Right Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 20	2	
+215	46.0	0.0	-29.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	0	
+216	46.0	-53.0	-33.0	Right Cerebellum	Posterior Lobe	Cerebellar Tonsil	Gray Matter	*	0	
+217	50.0	-32.0	3.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	0	
+218	55.0	-14.0	-20.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	2	
+219	58.0	-29.0	-12.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	1	
+220	62.0	-40.0	0.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	*	0	
+221	55.0	-17.0	-3.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 21	2	
+222	56.0	0.0	2.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+223	62.0	-29.0	12.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 42	1	
+224	6.0	-42.0	19.0	Right Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 29	1	
+225	6.0	-39.0	37.0	Right Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 31	1	
+226	7.0	-18.0	30.0	Right Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 23	1	
+227	12.0	-55.0	16.0	Right Cerebrum	Limbic Lobe	Posterior Cingulate	Gray Matter	Brodmann area 23	3	
+228	7.0	-6.0	43.0	Right Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 24	0	
+229	6.0	-54.0	31.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 7	1	
+230	9.0	-28.0	45.0	Right Cerebrum	Frontal Lobe	Paracentral Lobule	Gray Matter	Brodmann area 31	2	
+231	17.0	-63.0	27.0	Right Cerebrum	Occipital Lobe	Precuneus	Gray Matter	Brodmann area 31	1	
+232	6.0	11.0	30.0	Right Cerebrum	Limbic Lobe	Cingulate Gyrus	Gray Matter	Brodmann area 24	0	
+233	7.0	30.0	17.0	Right Cerebrum	Limbic Lobe	Anterior Cingulate	Gray Matter	Brodmann area 24	1	
+234	11.0	-43.0	-17.0	Right Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+235	15.0	-43.0	3.0	Right Cerebrum	Limbic Lobe	Parahippocampal Gyrus	Gray Matter	Brodmann area 30	2	
+236	25.0	-49.0	-7.0	Right Cerebrum	Occipital Lobe	Parahippocampal Gyrus	Gray Matter	Brodmann area 37	0	
+237	28.0	-36.0	-20.0	Right Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+238	33.0	-55.0	-22.0	Right Cerebellum	Anterior Lobe	Culmen	Gray Matter	*	0	
+239	33.0	-69.0	-14.0	Right Cerebellum	Posterior Lobe	Declive	Gray Matter	*	1	
+240	40.0	-34.0	-16.0	Right Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 20	1	
+241	43.0	-57.0	-9.0	Right Cerebrum	Temporal Lobe	Fusiform Gyrus	Gray Matter	Brodmann area 37	3	
+242	47.0	-72.0	-24.0	Right Cerebellum	Posterior Lobe	Tuber	Gray Matter	*	0	
+243	54.0	-56.0	0.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 37	1	
+244	54.0	-48.0	-14.0	Right Cerebrum	Temporal Lobe	Inferior Temporal Gyrus	Gray Matter	Brodmann area 20	0	
+245	54.0	-44.0	11.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	1	
+246	29.0	0.0	-32.0	Right Cerebrum	Limbic Lobe	Uncus	Gray Matter	Brodmann area 36	3	
+247	37.0	12.0	-24.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 38	2	
+248	50.0	1.0	-13.0	Right Cerebrum	Temporal Lobe	Middle Temporal Gyrus	Gray Matter	Brodmann area 21	0	
+249	33.0	-67.0	38.0	Right Cerebrum	Parietal Lobe	Precuneus	Gray Matter	Brodmann area 19	1	
+250	48.0	-59.0	34.0	Right Cerebrum	Parietal Lobe	Angular Gyrus	Gray Matter	Brodmann area 39	4	
+251	48.0	-57.0	17.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 22	0	
+252	58.0	-47.0	24.0	Right Cerebrum	Temporal Lobe	Supramarginal Gyrus	Gray Matter	Brodmann area 40	0	
+253	48.0	-29.0	18.0	Right Cerebrum	Temporal Lobe	Superior Temporal Gyrus	Gray Matter	Brodmann area 41	1	
+254	49.0	-31.0	49.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 40	0	
+255	51.0	-46.0	40.0	Right Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	3	
+256	57.0	-20.0	31.0	Right Cerebrum	Parietal Lobe	Postcentral Gyrus	Gray Matter	Brodmann area 2	0	
+257	58.0	-34.0	30.0	Right Cerebrum	Parietal Lobe	Inferior Parietal Lobule	Gray Matter	Brodmann area 40	1	
+258	37.0	-22.0	15.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+259	55.0	-13.0	11.0	Right Cerebrum	Temporal Lobe	Transverse Temporal Gyrus	Gray Matter	Brodmann area 42	1	
+260	36.0	17.0	29.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 9	1	
+261	52.0	13.0	12.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 44	1	
+262	35.0	19.0	8.0	Right Cerebrum	Sub-lobar	Insula	Gray Matter	Brodmann area 13	0	
+263	46.0	37.0	13.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 46	0	
+264	18.0	12.0	-15.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 47	0	
+265	26.0	33.0	-13.0	Right Cerebrum	Frontal Lobe	Middle Frontal Gyrus	Gray Matter	Brodmann area 11	0	
+266	43.0	24.0	-11.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 47	1	
+267	52.0	25.0	3.0	Right Cerebrum	Frontal Lobe	Inferior Frontal Gyrus	Gray Matter	Brodmann area 45	1	
+268	12.0	17.0	4.0	Right Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Head	0	
+269	14.0	0.0	17.0	Right Cerebrum	Sub-lobar	Caudate	Gray Matter	Caudate Body	0	
+270	24.0	5.0	1.0	Right Cerebrum	Sub-lobar	Lentiform Nucleus	Gray Matter	Putamen	0	
+271	29.0	-8.0	-1.0	Right Cerebrum	Sub-lobar	Lentiform Nucleus	Gray Matter	Putamen	0	
+272	5.0	-13.0	7.0	Right Cerebrum	Sub-lobar	Thalamus	Gray Matter	Medial Dorsal Nucleus	0	
+273	8.0	-25.0	-7.0	Right Brainstem	Midbrain	*	Gray Matter	Red Nucleus	2	
+274	15.0	-30.0	15.0	Right Cerebrum	Sub-lobar	Thalamus	Gray Matter	Pulvinar	2	
+275	25.0	-2.0	-16.0	Right Cerebrum	Limbic Lobe	Parahippocampal Gyrus	Gray Matter	Amygdala	0	
+276	27.0	-19.0	-11.0	Right Cerebrum	Limbic Lobe	Parahippocampal Gyrus	Gray Matter	Hippocampus	1	
+277	30.0	-36.0	0.0	Right Cerebrum	Temporal Lobe	Sub-Gyral	Gray Matter	Hippocampus	0	
+278	8.0	1.0	-4.0	Right Cerebrum	Sub-lobar	Lentiform Nucleus	Gray Matter	Medial Globus Pallidus	2	
+

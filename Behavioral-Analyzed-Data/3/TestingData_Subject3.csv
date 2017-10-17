@@ -1,0 +1,4 @@
+Subject,Age,Gender,PreFigureSeries,PreLSATReasoning,PreLetterComp_Accuracy,PreLetterComp_AttemptedTrials,PreLetterComp_CorrectTrials,PreLetterComp_AvgRT,PreLetterComp_AvgCorrectTrialRT,PreDSST_Attempted,PreDSST_Correct,PreDSST_Accuracy,PostFigureSeries,PostLSATReasoning,PrePatternComp_Accuracy,PrePatternComp_AttemptedTrials,PrePatternComp_CorrectTrials,PrePatternComp_AvgRT,PrePatternComp_AvgCorrectTrialRT
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,22,2,23,19,NaN,NaN,NaN,NaN,NaN,90,89,0.988888888888889,30,19,0.962264150943396,53,51,1000.45283018868,1011.41176470588

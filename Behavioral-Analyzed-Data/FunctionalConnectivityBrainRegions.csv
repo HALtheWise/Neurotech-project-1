@@ -1,0 +1,279 @@
+subunnit    ,Brodmann Area Name,Talairach X   ,Talairach Y   ,Talairach Z    ,Level 1,Level 2,Level 3,Level 4,Level 5
+13,  No_BA_region,13,-54,-42,Right Cerebellum,Posterior Lobe,Cerebellar Tonsil,Gray Matter,*
+31,  No_BA_region,31,-49,-41,Right Cerebellum,Posterior Lobe,Cerebellar Tonsil,Gray Matter,*
+38,  No_BA_region,28,-78,-29,Right Cerebellum,Posterior Lobe,Tuber,Gray Matter,*
+49,  No_BA_region,6,-39,-37,Right Brainstem,Medulla,*,*,*
+76,  No_BA_region,20,-68,-40,Right Cerebellum,Posterior Lobe,Inferior Semi-Lunar Lobule,Gray Matter,*
+79,  No_BA_region,7,-59,-28,Right Cerebellum,Anterior Lobe,Nodule,Gray Matter,*
+104,  No_BA_region,12,-66,-15,Right Cerebellum,Posterior Lobe,Declive,Gray Matter,*
+115,  No_BA_region,7,-23,-26,Right Brainstem,Pons,*,*,*
+126,  No_BA_region,40,-69,-38,Right Cerebellum,Posterior Lobe,Inferior Semi-Lunar Lobule,Gray Matter,*
+130,  No_BA_region,11,-81,-27,Right Cerebellum,Posterior Lobe,Pyramis,Gray Matter,*
+141,  No_BA_region,-11,-52,-40,Left Cerebellum,Posterior Lobe,Cerebellar Tonsil,Gray Matter,*
+142,  No_BA_region,-26,-79,-31,Left Cerebellum,Posterior Lobe,Pyramis,Gray Matter,*
+150,  No_BA_region,-36,-80,-20,Left Cerebellum,Posterior Lobe,Declive,Gray Matter,*
+158,  No_BA_region,-4,-21,-27,Left Brainstem,Pons,*,*,*
+159,  No_BA_region,-44,-53,-36,Left Cerebellum,Posterior Lobe,Cerebellar Tonsil,Gray Matter,*
+174,  No_BA_region,-20,-65,-40,Left Cerebellum,Posterior Lobe,Inferior Semi-Lunar Lobule,Gray Matter,*
+196,  No_BA_region,-5,-56,-25,Left Cerebellum,Anterior Lobe,Nodule,Gray Matter,*
+211,  No_BA_region,-27,-49,-41,Left Cerebellum,Posterior Lobe,Cerebellar Tonsil,Gray Matter,*
+219,  No_BA_region,-39,-70,-36,Left Cerebellum,Posterior Lobe,Inferior Semi-Lunar Lobule,Gray Matter,*
+220,  No_BA_region,-5,-70,-26,Left Cerebellum,Posterior Lobe,Pyramis,Gray Matter,*
+239,  No_BA_region,-7,-35,-29,Left Brainstem,Pons,*,*,*
+256,  No_BA_region,-11,-83,-22,Left Cerebellum,Posterior Lobe,Declive,Gray Matter,*
+261,  No_BA_region,-8,-43,-15,Left Cerebellum,Anterior Lobe,Culmen,Gray Matter,*
+272,  No_BA_region,-3,-40,-45,*,*,*,*,*
+254,    L.BA1.1,-49,-20,34,Left Cerebrum,Frontal Lobe,Precentral Gyrus,White Matter,*
+148,    L.BA1.2,-40,-23,53,Left Cerebrum,Parietal Lobe,Postcentral Gyrus,Gray Matter,Brodmann area 3
+262,    L.BA1.3,-22,-24,59,Left Cerebrum,Frontal Lobe,Precentral Gyrus,Gray Matter,Brodmann area 4
+154,    L.BA4.1,-57,-9,28,Left Cerebrum,Frontal Lobe,Precentral Gyrus,White Matter,*
+253,    L.BA4.2,-5,-23,58,Left Cerebrum,Frontal Lobe,Medial Frontal Gyrus,White Matter,*
+206,    L.BA6.1,-53,1,23,Left Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,Gray Matter,Brodmann area 9
+278,    L.BA6.2,-45,-8,41,Left Cerebrum,Frontal Lobe,Precentral Gyrus,White Matter,*
+197,    L.BA6.3,-42,4,48,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,Gray Matter,Brodmann area 6
+177,    L.BA6.4,-41,9,31,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+242,    L.BA6.5,-28,-7,54,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,Gray Matter,Brodmann area 6
+203,    L.BA6.6,-24,11,51,Left Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+277,    L.BA6.7,-14,-2,63,Left Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+172,    L.BA6.8,-5,12,57,Left Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+264,    L.BA6.9,-5,-4,45,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,Gray Matter,Brodmann area 24
+160,    L.BA7.1,-35,-49,48,Left Cerebrum,Parietal Lobe,Inferior Parietal Lobule,White Matter,*
+250,    L.BA7.2,-28,-60,36,Left Cerebrum,Parietal Lobe,Precuneus,White Matter,*
+157,    L.BA7.3,-27,-40,53,Left Cerebrum,Parietal Lobe,Sub-Gyral,White Matter,*
+240,    L.BA7.4,-21,-56,57,Left Cerebrum,Parietal Lobe,Sub-Gyral,White Matter,*
+232,    L.BA7.5,-15,-71,46,Left Cerebrum,Parietal Lobe,Precuneus,White Matter,*
+190,    L.BA7.6,-14,-68,29,Left Cerebrum,Occipital Lobe,Precuneus,White Matter,*
+255,    L.BA7.7,-12,-39,64,Left Cerebrum,Parietal Lobe,Postcentral Gyrus,White Matter,*
+146,    L.BA7.8,-6,-55,52,Left Cerebrum,Parietal Lobe,Precuneus,Gray Matter,Brodmann area 7
+249,    L.BA7.9,-3,-67,38,Left Cerebrum,Parietal Lobe,Precuneus,Gray Matter,Brodmann area 7
+226,    L.BA8.1,-38,24,42,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+251,    L.BA8.2,-21,25,40,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,Gray Matter,Brodmann area 8
+228,    L.BA8.3,-15,33,48,Left Cerebrum,Frontal Lobe,Superior Frontal Gyrus,Gray Matter,Brodmann area 8
+187,    L.BA8.4,-3,29,47,Left Cerebrum,Frontal Lobe,Medial Frontal Gyrus,*,*
+143,    L.BA9.1,-45,26,24,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+164,    L.BA9.2,-27,36,31,Left Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+248,    L.BA9.3,-10,47,36,Left Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+140,    L.BA10.1,-38,42,26,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+193,    L.BA10.2,-32,50,-1,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+259,    L.BA10.3,-27,48,18,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+200,    L.BA10.4,-16,60,3,Left Cerebrum,Frontal Lobe,Medial Frontal Gyrus,White Matter,*
+274,    L.BA10.5,-12,55,-13,Left Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+267,    L.BA10.6,-10,57,20,Left Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+225,    L.BA10.7,-7,47,0,Left Cerebrum,Frontal Lobe,Medial Frontal Gyrus,Gray Matter,Brodmann area 32
+188,    L.BA11.1,-9,40,-20,Left Cerebrum,Frontal Lobe,Sub-Gyral,White Matter,*
+170,    L.BA11.2,-7,20,-17,Left Cerebrum,Frontal Lobe,Medial Frontal Gyrus,White Matter,*
+246,    L.BA13.1,-39,-11,13,Left Cerebrum,Sub-lobar,Insula,Gray Matter,Brodmann area 13
+216,    L.BA13.2,-36,7,-1,Left Cerebrum,Sub-lobar,Insula,White Matter,*
+207,    L.BA13.3,-35,-12,0,Left Cerebrum,Sub-lobar,Extra-Nuclear,White Matter,*
+156,    L.BA17.1,-22,-64,11,Left Cerebrum,Limbic Lobe,Posterior Cingulate,Gray Matter,Brodmann area 30
+257,    L.BA18.1,-29,-91,0,Left Cerebrum,Occipital Lobe,Middle Occipital Gyrus,White Matter,*
+153,    L.BA18.2,-20,-91,15,Left Cerebrum,Occipital Lobe,Middle Occipital Gyrus,White Matter,*
+236,    L.BA18.3,-19,-84,-9,Left Cerebrum,Occipital Lobe,Lingual Gyrus,White Matter,*
+227,    L.BA18.4,-8,-64,7,Left Cerebrum,Occipital Lobe,Cuneus,White Matter,*
+184,    L.BA18.5,-7,-95,0,Left Cerebrum,Occipital Lobe,Lingual Gyrus,Gray Matter,*
+231,    L.BA18.6,-7,-69,-11,Left Cerebellum,Posterior Lobe,Declive,Gray Matter,*
+168,    L.BA18.7,-5,-79,2,Left Cerebrum,Occipital Lobe,Lingual Gyrus,White Matter,*
+165,    L.BA18.8,-4,-90,15,Left Cerebrum,Occipital Lobe,Cuneus,White Matter,*
+270,    L.BA18.9,-3,-75,19,Left Cerebrum,Occipital Lobe,Cuneus,White Matter,*
+222,    L.BA19.1,-46,-69,5,Left Cerebrum,Occipital Lobe,Middle Occipital Gyrus,Gray Matter,Brodmann area 37
+275,    L.BA19.2,-42,-72,24,Left Cerebrum,Temporal Lobe,Middle Temporal Gyrus,White Matter,*
+247,    L.BA19.3,-39,-76,-3,Left Cerebrum,Occipital Lobe,Inferior Occipital Gyrus,Gray Matter,Brodmann area 19
+185,    L.BA19.4,-37,-82,15,Left Cerebrum,Occipital Lobe,Middle Occipital Gyrus,White Matter,*
+214,    L.BA19.5,-27,-76,32,Left Cerebrum,Occipital Lobe,Cuneus,White Matter,*
+202,    L.BA19.6,-26,-67,-20,Left Cerebellum,Posterior Lobe,Declive,Gray Matter,*
+205,    L.BA19.7,-23,-65,-4,Left Cerebrum,Occipital Lobe,Lingual Gyrus,White Matter,*
+208,    L.BA19.8,-16,-48,2,Left Cerebrum,Occipital Lobe,Lingual Gyrus,Gray Matter,Brodmann area 19
+223,    L.BA19.9,-10,-83,32,Left Cerebrum,Occipital Lobe,Cuneus,White Matter,*
+175,    L.BA19.10,-4,-52,-5,Left Cerebellum,Anterior Lobe,Culmen,Gray Matter,*
+198,    L.BA20.1,-49,-11,-26,Left Cerebrum,Temporal Lobe,Fusiform Gyrus,White Matter,*
+212,    L.BA21.1,-57,-43,7,Left Cerebrum,Temporal Lobe,Superior Temporal Gyrus,Gray Matter,Brodmann area 22
+234,    L.BA21.2,-56,-12,-10,Left Cerebrum,Temporal Lobe,Middle Temporal Gyrus,White Matter,*
+238,    L.BA21.3,-56,-29,-13,Left Cerebrum,Temporal Lobe,Middle Temporal Gyrus,White Matter,*
+210,    L.BA21.4,-54,-27,3,Left Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+237,    L.BA22.1,-52,0,2,Left Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+171,    L.BA23.1,-8,-56,21,Left Cerebrum,Limbic Lobe,Posterior Cingulate,White Matter,*
+152,    L.BA23.2,-4,-17,29,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,White Matter,*
+258,    L.BA23.3,-4,-33,32,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,White Matter,*
+161,    L.BA24.1,-4,27,14,Left Cerebrum,Limbic Lobe,Anterior Cingulate,Gray Matter,Brodmann area 24
+176,    L.BA24.2,-4,4,24,Left Cerebrum,Sub-lobar,Extra-Nuclear,White Matter,Corpus Callosum
+204,    L.BA30.1,-6,-42,17,Left Cerebrum,Sub-lobar,Extra-Nuclear,White Matter,Corpus Callosum
+224,    L.BA31.1,-8,-40,47,Left Cerebrum,Parietal Lobe,Precuneus,White Matter,*
+230,    L.BA31.2,-8,-22,42,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,*,*
+186,    L.BA31.3,-6,-49,36,Left Cerebrum,Parietal Lobe,Precuneus,Gray Matter,Brodmann area 31
+180,    L.BA32.1,-7,30,29,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,White Matter,*
+182,    L.BA32.2,-6,42,17,Left Cerebrum,Frontal Lobe,Medial Frontal Gyrus,Gray Matter,Brodmann area 9
+271,    L.BA32.3,-6,32,-7,Left Cerebrum,Limbic Lobe,Anterior Cingulate,White Matter,*
+173,    L.BA32.4,-5,12,35,Left Cerebrum,Frontal Lobe,Cingulate Gyrus,Gray Matter,Brodmann area 32
+213,    L.BA36.1,-32,-15,-24,Left Cerebrum,Limbic Lobe,Parahippocampal Gyrus,White Matter,*
+201,    L.BA37.1,-57,-48,-9,Left Cerebrum,Temporal Lobe,Middle Temporal Gyrus,White Matter,*
+147,    L.BA37.2,-53,-59,-2,Left Cerebrum,Temporal Lobe,Middle Temporal Gyrus,Gray Matter,Brodmann area 37
+162,    L.BA37.3,-46,-63,-23,Left Cerebellum,Posterior Lobe,Tuber,Gray Matter,*
+243,    L.BA37.4,-42,-38,-16,Left Cerebrum,Temporal Lobe,Fusiform Gyrus,*,*
+235,    L.BA37.5,-40,-55,-10,Left Cerebrum,Occipital Lobe,Sub-Gyral,White Matter,*
+252,    L.BA37.6,-32,-46,-24,Left Cerebellum,Anterior Lobe,Culmen,Gray Matter,*
+217,    L.BA37.7,-22,-32,-16,Left Cerebellum,Anterior Lobe,Culmen,Gray Matter,*
+178,    L.BA37.8,-20,-53,-13,Left Cerebellum,Posterior Lobe,Declive,Gray Matter,*
+244,    L.BA38.1,-46,0,-12,Left Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+181,    L.BA38.2,-41,8,-26,Left Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+265,    L.BA38.3,-26,2,-31,Left Cerebrum,Temporal Lobe,Sub-Gyral,White Matter,*
+241,    L.BA39.1,-54,-49,26,Left Cerebrum,Parietal Lobe,Supramarginal Gyrus,White Matter,*
+221,    L.BA39.2,-51,-44,41,Left Cerebrum,Parietal Lobe,Inferior Parietal Lobule,White Matter,*
+229,    L.BA39.3,-51,-57,14,Left Cerebrum,Temporal Lobe,Superior Temporal Gyrus,Gray Matter,Brodmann area 22
+192,    L.BA39.4,-48,-60,30,Left Cerebrum,Parietal Lobe,Angular Gyrus,White Matter,*
+194,    L.BA39.5,-39,-61,44,Left Cerebrum,Parietal Lobe,Inferior Parietal Lobule,White Matter,*
+195,    L.BA40.1,-57,-28,33,Left Cerebrum,Parietal Lobe,Inferior Parietal Lobule,White Matter,*
+268,    L.BA40.2,-57,-24,16,Left Cerebrum,Parietal Lobe,Postcentral Gyrus,Gray Matter,Brodmann area 40
+245,    L.BA40.3,-55,-38,23,Left Cerebrum,Parietal Lobe,Inferior Parietal Lobule,White Matter,*
+166,    L.BA40.4,-44,-32,44,Left Cerebrum,Parietal Lobe,Inferior Parietal Lobule,*,*
+218,    L.BA41.1,-55,-11,8,Left Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+183,    L.BA41.2,-39,-28,15,Left Cerebrum,Sub-lobar,Insula,White Matter,*
+145,    L.BA44.1,-52,15,14,Left Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,Gray Matter,Brodmann area 44
+269,    L.BA44.2,-35,5,11,Left Cerebrum,Sub-lobar,Insula,Gray Matter,Brodmann area 13
+215,    L.BA45.1,-51,29,6,Left Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,White Matter,*
+169,    L.BA45.2,-32,22,4,Left Cerebrum,Sub-lobar,Insula,Gray Matter,Brodmann area 13
+276,    L.BA46.1,-40,41,11,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,Gray Matter,Brodmann area 10
+179,    L.BA47.1,-44,40,-5,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+189,    L.BA47.2,-44,19,-8,Left Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,White Matter,*
+209,    L.BA47.3,-28,35,-12,Left Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+163,    L.BA47.4,-25,16,-16,Left Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,White Matter,*
+260,    L.BA48.1,-14,-15,20,Left Cerebrum,Sub-lobar,Extra-Nuclear,White Matter,*
+273,    L.BA48.2,-12,7,13,Left Cerebrum,Sub-lobar,Caudate,Gray Matter,Caudate Body
+263,    L.BA48.3,-11,18,2,Left Cerebrum,Sub-lobar,Caudate,Gray Matter,Caudate Head
+149,    L.BA49.1,-23,4,2,Left Cerebrum,Sub-lobar,Lentiform Nucleus,Gray Matter,Putamen
+151,    L.BA49.2,-10,4,-6,Left Cerebrum,Sub-lobar,Extra-Nuclear,White Matter,*
+233,    L.BA50.1,-18,-35,15,Left Cerebrum,Sub-lobar,Lateral Ventricle,Cerebro-Spinal Fluid,*
+167,    L.BA50.2,-10,-26,3,Left Cerebrum,Sub-lobar,Thalamus,Gray Matter,Pulvinar
+155,    L.BA50.3,-3,-10,8,Left Cerebrum,Sub-lobar,Thalamus,Gray Matter,Medial Dorsal Nucleus
+199,    L.BA53.1,-23,-5,-15,Left Cerebrum,Limbic Lobe,Parahippocampal Gyrus,Gray Matter,Amygdala
+266,    L.BA54.1,-28,-20,-9,Left Cerebrum,Temporal Lobe,Sub-Gyral,White Matter,*
+191,    L.BA54.2,-27,-38,-1,Left Cerebrum,Temporal Lobe,Sub-Gyral,Gray Matter,Hippocampus
+144,    L.BA55.1,-4,-24,-9,Left Brainstem,Midbrain,*,*,*
+32,    R.BA1.1,19,-29,64,Right Cerebrum,Frontal Lobe,Precentral Gyrus,Gray Matter,Brodmann area 4
+4,    R.BA1.2,35,-24,57,Right Cerebrum,Frontal Lobe,Precentral Gyrus,White Matter,*
+57,    R.BA1.3,42,-26,38,Right Cerebrum,Parietal Lobe,Postcentral Gyrus,Gray Matter,Brodmann area 2
+50,    R.BA1.4,59,-9,23,Right Cerebrum,Frontal Lobe,Precentral Gyrus,Gray Matter,Brodmann area 4
+28,    R.BA4.1,45,-15,42,Right Cerebrum,Frontal Lobe,Precentral Gyrus,White Matter,*
+59,    R.BA6.1,5,12,53,Right Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+105,    R.BA6.2,7,-11,61,Right Cerebrum,Frontal Lobe,Medial Frontal Gyrus,Gray Matter,Brodmann area 6
+64,    R.BA6.3,17,9,60,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+7,    R.BA6.4,26,-9,60,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,Gray Matter,Brodmann area 6
+85,    R.BA6.5,29,1,51,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+116,    R.BA6.6,39,4,32,Right Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,White Matter,*
+139,    R.BA6.7,44,-5,49,Right Cerebrum,Frontal Lobe,Precentral Gyrus,Gray Matter,Brodmann area 6
+34,    R.BA6.8,52,-2,35,Right Cerebrum,Frontal Lobe,Precentral Gyrus,Gray Matter,Brodmann area 6
+1,    R.BA6.9,53,5,22,Right Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,White Matter,*
+16,    R.BA7.1,6,-67,42,Right Cerebrum,Parietal Lobe,Precuneus,Gray Matter,Brodmann area 7
+41,    R.BA7.2,6,-52,50,Right Cerebrum,Parietal Lobe,Precuneus,*,*
+45,    R.BA7.3,7,-40,62,Right Cerebrum,Frontal Lobe,Paracentral Lobule,White Matter,*
+80,    R.BA7.4,21,-56,55,Right Cerebrum,Parietal Lobe,Precuneus,Gray Matter,Brodmann area 7
+60,    R.BA7.5,23,-66,49,Right Cerebrum,Parietal Lobe,Precuneus,Gray Matter,Brodmann area 7
+29,    R.BA7.6,24,-46,61,Right Cerebrum,Parietal Lobe,Superior Parietal Lobule,Gray Matter,Brodmann area 7
+8,    R.BA7.7,31,-37,47,Right Cerebrum,Parietal Lobe,Sub-Gyral,White Matter,*
+125,    R.BA7.8,38,-50,45,Right Cerebrum,Parietal Lobe,Inferior Parietal Lobule,White Matter,*
+138,    R.BA8.1,6,30,37,Right Cerebrum,Frontal Lobe,Medial Frontal Gyrus,Gray Matter,Brodmann area 6
+2,    R.BA8.2,15,32,50,Right Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+101,    R.BA8.3,22,31,33,Right Cerebrum,Frontal Lobe,Sub-Gyral,White Matter,*
+9,    R.BA8.4,25,17,46,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,Gray Matter,Brodmann area 8
+72,    R.BA8.5,37,29,41,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,Gray Matter,Brodmann area 8
+63,    R.BA8.6,42,12,46,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+69,    R.BA9.1,6,45,21,Right Cerebrum,Frontal Lobe,Medial Frontal Gyrus,Gray Matter,Brodmann area 9
+46,    R.BA9.2,14,48,36,Right Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+137,    R.BA9.3,24,48,25,Right Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+88,    R.BA9.4,37,37,26,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+107,    R.BA9.5,50,23,27,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+81,    R.BA10.1,8,42,2,Right Cerebrum,Limbic Lobe,Anterior Cingulate,Gray Matter,*
+37,    R.BA10.2,13,60,0,Right Cerebrum,Frontal Lobe,Medial Frontal Gyrus,Gray Matter,Brodmann area 10
+131,    R.BA10.3,13,58,17,Right Cerebrum,Frontal Lobe,Superior Frontal Gyrus,White Matter,*
+6,    R.BA10.4,29,52,-5,Right Cerebrum,Frontal Lobe,Superior Frontal Gyrus,Gray Matter,Brodmann area 10
+67,    R.BA10.5,32,49,12,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+129,    R.BA10.6,43,43,-2,Right Cerebrum,Frontal Lobe,Sub-Gyral,Gray Matter,Brodmann area 10
+119,    R.BA11.1,5,30,-6,Right Cerebrum,Limbic Lobe,Anterior Cingulate,Gray Matter,Brodmann area 24
+65,    R.BA11.2,6,41,-17,Right Cerebrum,Frontal Lobe,Medial Frontal Gyrus,White Matter,*
+22,    R.BA11.3,8,24,-19,Right Cerebrum,Frontal Lobe,Rectal Gyrus,White Matter,*
+3,    R.BA11.4,11,53,-16,Right Cerebrum,Frontal Lobe,Medial Frontal Gyrus,White Matter,*
+43,    R.BA13.1,34,15,-6,Right Cerebrum,Sub-lobar,Insula,*,*
+82,    R.BA13.2,39,4,4,Right Cerebrum,Sub-lobar,Insula,White Matter,*
+93,    R.BA13.3,40,-6,14,Right Cerebrum,Sub-lobar,Insula,Gray Matter,Brodmann area 13
+99,    R.BA13.4,41,-11,0,Right Cerebrum,Sub-lobar,Insula,White Matter,*
+14,    R.BA17.1,8,-87,11,Right Cerebrum,Occipital Lobe,Cuneus,White Matter,*
+53,    R.BA17.2,10,-71,12,Right Cerebrum,Occipital Lobe,Cuneus,Gray Matter,Brodmann area 23
+127,    R.BA17.3,26,-58,10,Right Cerebrum,Sub-lobar,Extra-Nuclear,White Matter,*
+68,    R.BA18.1,6,-52,-6,Right Cerebellum,Anterior Lobe,Culmen,Gray Matter,*
+84,    R.BA18.2,8,-76,26,Right Cerebrum,Occipital Lobe,Cuneus,*,*
+12,    R.BA18.3,9,-76,-1,Right Cerebrum,Occipital Lobe,Lingual Gyrus,Gray Matter,Brodmann area 18
+110,    R.BA18.4,20,-84,-17,*,*,*,*,*
+96,    R.BA18.5,23,-90,-3,Right Cerebrum,Occipital Lobe,Lingual Gyrus,White Matter,*
+121,    R.BA18.6,25,-94,9,Right Cerebrum,Occipital Lobe,Middle Occipital Gyrus,White Matter,*
+120,    R.BA18.7,40,-84,8,Right Cerebrum,Occipital Lobe,Middle Occipital Gyrus,White Matter,*
+117,    R.BA19.1,14,-58,0,Right Cerebrum,Occipital Lobe,Lingual Gyrus,White Matter,*
+36,    R.BA19.2,19,-77,37,Right Cerebrum,Parietal Lobe,Precuneus,Gray Matter,Brodmann area 7
+108,    R.BA19.3,24,-70,-3,Right Cerebrum,Occipital Lobe,Lingual Gyrus,Gray Matter,Brodmann area 19
+106,    R.BA19.4,28,-80,22,Right Cerebrum,Occipital Lobe,Cuneus,White Matter,*
+39,    R.BA19.5,43,-73,27,Right Cerebrum,Temporal Lobe,Middle Temporal Gyrus,Gray Matter,Brodmann area 39
+102,    R.BA19.6,43,-75,-5,Right Cerebrum,Occipital Lobe,Inferior Occipital Gyrus,Gray Matter,Brodmann area 19
+23,    R.BA19.7,47,-71,9,Right Cerebrum,Occipital Lobe,Middle Occipital Gyrus,Gray Matter,Brodmann area 19
+112,    R.BA20.1,36,-16,-25,Right Cerebrum,Limbic Lobe,Parahippocampal Gyrus,White Matter,*
+26,    R.BA20.2,46,0,-29,Right Cerebrum,Temporal Lobe,Middle Temporal Gyrus,Gray Matter,Brodmann area 21
+66,    R.BA20.3,46,-53,-33,Right Cerebellum,Posterior Lobe,Cerebellar Tonsil,Gray Matter,*
+62,    R.BA21.1,50,-32,3,Right Cerebrum,Temporal Lobe,Superior Temporal Gyrus,Gray Matter,Brodmann area 22
+10,    R.BA21.2,55,-14,-20,Right Cerebrum,Temporal Lobe,Inferior Temporal Gyrus,White Matter,*
+19,    R.BA21.3,58,-29,-12,Right Cerebrum,Temporal Lobe,Middle Temporal Gyrus,White Matter,*
+33,    R.BA21.4,62,-40,0,Right Cerebrum,Temporal Lobe,Middle Temporal Gyrus,Gray Matter,*
+51,    R.BA22.1,55,-17,-3,Right Cerebrum,Temporal Lobe,Middle Temporal Gyrus,White Matter,*
+83,    R.BA22.2,56,0,2,Right Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+44,    R.BA22.3,62,-29,12,Right Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+47,    R.BA23.1,6,-42,19,Right Cerebrum,Limbic Lobe,Posterior Cingulate,White Matter,*
+135,    R.BA23.2,6,-39,37,Right Cerebrum,Limbic Lobe,Cingulate Gyrus,White Matter,*
+92,    R.BA23.3,7,-18,30,Right Cerebrum,Limbic Lobe,Cingulate Gyrus,White Matter,*
+48,    R.BA23.4,12,-55,16,Right Cerebrum,Limbic Lobe,Posterior Cingulate,White Matter,*
+71,    R.BA24.1,7,-6,43,Right Cerebrum,Limbic Lobe,Cingulate Gyrus,Gray Matter,Brodmann area 24
+21,    R.BA31.1,6,-54,31,Right Cerebrum,Parietal Lobe,Precuneus,White Matter,*
+55,    R.BA31.2,9,-28,45,Right Cerebrum,Frontal Lobe,Paracentral Lobule,White Matter,*
+132,    R.BA31.3,17,-63,27,Right Cerebrum,Occipital Lobe,Precuneus,White Matter,*
+27,    R.BA32.1,6,11,30,Right Cerebrum,Limbic Lobe,Cingulate Gyrus,Gray Matter,Brodmann area 24
+54,    R.BA32.2,7,30,17,Right Cerebrum,Limbic Lobe,Anterior Cingulate,White Matter,*
+30,    R.BA36.1,11,-43,-17,Right Cerebellum,Anterior Lobe,Culmen,Gray Matter,*
+136,    R.BA36.2,15,-43,3,Right Cerebrum,Limbic Lobe,Parahippocampal Gyrus,White Matter,*
+97,    R.BA37.1,25,-49,-7,Right Cerebrum,Occipital Lobe,Parahippocampal Gyrus,Gray Matter,Brodmann area 37
+113,    R.BA37.2,28,-36,-20,Right Cerebellum,Anterior Lobe,Culmen,Gray Matter,*
+61,    R.BA37.3,33,-55,-22,Right Cerebellum,Anterior Lobe,Culmen,Gray Matter,*
+73,    R.BA37.4,33,-69,-14,Right Cerebrum,Occipital Lobe,Fusiform Gyrus,*,*
+109,    R.BA37.5,40,-34,-16,Right Cerebrum,Temporal Lobe,Fusiform Gyrus,White Matter,*
+87,    R.BA37.6,43,-57,-9,Right Cerebrum,Occipital Lobe,Sub-Gyral,White Matter,*
+86,    R.BA37.7,47,-72,-24,Right Cerebellum,Posterior Lobe,Tuber,Gray Matter,*
+35,    R.BA37.8,54,-56,0,Right Cerebrum,Temporal Lobe,Middle Temporal Gyrus,White Matter,*
+90,    R.BA37.9,54,-48,-14,Right Cerebrum,Temporal Lobe,Inferior Temporal Gyrus,Gray Matter,Brodmann area 20
+122,    R.BA37.10,54,-44,11,Right Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+70,    R.BA38.1,29,0,-32,Right Cerebrum,Temporal Lobe,Sub-Gyral,White Matter,*
+123,    R.BA38.2,37,12,-24,Right Cerebrum,Temporal Lobe,Superior Temporal Gyrus,White Matter,*
+89,    R.BA38.3,50,1,-13,Right Cerebrum,Temporal Lobe,Middle Temporal Gyrus,Gray Matter,Brodmann area 21
+40,    R.BA39.1,33,-67,38,Right Cerebrum,Parietal Lobe,Precuneus,White Matter,*
+24,    R.BA39.2,48,-59,34,Right Cerebrum,Parietal Lobe,Angular Gyrus,White Matter,*
+95,    R.BA39.3,48,-57,17,Right Cerebrum,Temporal Lobe,Superior Temporal Gyrus,Gray Matter,Brodmann area 22
+75,    R.BA39.4,58,-47,24,Right Cerebrum,Temporal Lobe,Supramarginal Gyrus,Gray Matter,Brodmann area 40
+18,    R.BA40.1,48,-29,18,Right Cerebrum,Sub-lobar,Insula,White Matter,*
+100,    R.BA40.2,49,-31,49,Right Cerebrum,Parietal Lobe,Postcentral Gyrus,Gray Matter,Brodmann area 40
+94,    R.BA40.3,51,-46,40,Right Cerebrum,Parietal Lobe,Inferior Parietal Lobule,White Matter,*
+5,    R.BA40.4,57,-20,31,Right Cerebrum,Parietal Lobe,Postcentral Gyrus,Gray Matter,Brodmann area 2
+17,    R.BA40.5,58,-34,30,Right Cerebrum,Parietal Lobe,Inferior Parietal Lobule,White Matter,*
+15,    R.BA41.1,37,-22,15,Right Cerebrum,Sub-lobar,Insula,Gray Matter,Brodmann area 13
+56,    R.BA41.2,55,-13,11,Right Cerebrum,Temporal Lobe,Transverse Temporal Gyrus,White Matter,*
+124,    R.BA44.1,36,17,29,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,White Matter,*
+111,    R.BA44.2,52,13,12,Right Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,White Matter,*
+91,    R.BA45.1,35,19,8,Right Cerebrum,Sub-lobar,Insula,Gray Matter,Brodmann area 13
+20,    R.BA46.1,46,37,13,Right Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,Gray Matter,Brodmann area 46
+74,    R.BA47.1,18,12,-15,Right Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,Gray Matter,Brodmann area 47
+134,    R.BA47.2,26,33,-13,Right Cerebrum,Frontal Lobe,Middle Frontal Gyrus,Gray Matter,Brodmann area 11
+78,    R.BA47.3,43,24,-11,Right Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,White Matter,*
+103,    R.BA47.4,52,25,3,Right Cerebrum,Frontal Lobe,Inferior Frontal Gyrus,White Matter,*
+25,    R.BA48.1,12,17,4,Right Cerebrum,Sub-lobar,Caudate,Gray Matter,Caudate Head
+52,    R.BA48.2,14,0,17,Right Cerebrum,Sub-lobar,Caudate,Gray Matter,Caudate Body
+128,    R.BA49.1,24,5,1,Right Cerebrum,Sub-lobar,Lentiform Nucleus,Gray Matter,Putamen
+98,    R.BA49.2,29,-8,-1,Right Cerebrum,Sub-lobar,Lentiform Nucleus,Gray Matter,Putamen
+11,    R.BA50.1,5,-13,7,Right Cerebrum,Sub-lobar,Thalamus,Gray Matter,Medial Dorsal Nucleus
+58,    R.BA50.2,8,-25,-7,Right Brainstem,Midbrain,*,*,*
+118,    R.BA50.3,15,-30,15,Right Cerebrum,Sub-lobar,Lateral Ventricle,Cerebro-Spinal Fluid,*
+133,    R.BA53.1,25,-2,-16,Right Cerebrum,Limbic Lobe,Parahippocampal Gyrus,Gray Matter,Amygdala
+77,    R.BA54.1,27,-19,-11,Right Cerebrum,Limbic Lobe,Parahippocampal Gyrus,White Matter,*
+42,    R.BA54.2,30,-36,0,Right Cerebrum,Temporal Lobe,Sub-Gyral,Gray Matter,Hippocampus
+114,    R.BA55.1,8,1,-4,Right Cerebrum,Sub-lobar,Extra-Nuclear,White Matter,*
