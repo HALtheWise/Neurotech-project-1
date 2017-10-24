@@ -3,13 +3,13 @@
 
 ## Figures
 
-![Distance\_NRS](DistanceMap_naiveRS.png)
+![Distance\_NRS](figs/DistanceMap_naiveRS.png)
 
-![Distance\_CRS](DistanceMap_clusteredRS.png)
+![Distance\_CRS](figs/DistanceMap_clusteredRS.png)
 
-![Distance\_NFS](DistanceMap_naiveFS.png)
+![Distance\_NFS](figs/DistanceMap_naiveFS.png)
 
-![Distance\_CFS](DistanceMap_clusteredFS.png)
+![Distance\_CFS](figs/DistanceMap_clusteredFS.png)
 
 ![Clusters](figs/clusters.gif)
 
